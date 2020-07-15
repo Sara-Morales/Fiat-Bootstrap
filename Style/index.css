@@ -1,0 +1,200 @@
+body {
+    background: #ffffff;
+    margin-top:7px;
+}
+.nav-link {
+    font-size: 20px;
+    text-transform: uppercase;
+    margin-top: 50px;
+}
+.nav-link:hover {
+    background-color: #AFDEE7;
+    color: black;
+    border-radius: 7px;
+    font-weight: 750;
+}
+.navbar {
+    border: 3px solid rgb(97, 3, 3);
+}
+.btn{
+    color:black;
+    background-color: #57D3DD;
+    border-color: rgb(255, 255, 255);
+    text-align: center;
+    border-radius: 20px;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 35px;
+}
+.btn:hover{
+    background-color: #eaf1f5;
+    color:rgb(209, 24, 24);
+    border-color:rgb(145, 1, 1);
+    font-weight: 750;
+    border: 3px solid rgb(206, 11, 11);
+    
+}
+.btn__subr a{
+    text-decoration: none;
+}
+.card-title{
+    text-align: center;
+    font-size: 40px;
+    text-transform: uppercase;
+    font-family: 'Lobster', cursive;
+    text-shadow: 2px 2px 4px rgb(172, 4, 4);
+    color: black;
+}
+.list-group-item-text {
+    list-style:circle;
+    font-size: 25px;
+    margin-top: 25px;
+    list-style: 200px;
+    Line-Height:45px;
+}
+.card-text2{
+    margin-top: 30px;
+    margin-left: 27px;
+    
+}
+.card-text{
+    margin-left: 27px;
+}
+.list-group-item-text2{
+    list-style:circle;
+    font-size: 25px;
+    margin-top: 25px;
+    list-style: 200px;
+    Line-Height:55px;
+}
+.card-deck{
+    border: 20px solid #cfd8dc;
+    background-color: #eceff1;
+}
+.card{
+    border-radius: 20px;
+    border-color: #84B5F0;
+}
+.card-deck div{
+    border-right-style: double;
+    border-bottom-style: double;
+    border-left-style: double;
+    border-top-style: double;
+    border-radius: 20px;
+}
+.title{
+    font-size: 50px;
+    font-family: 'Lobster', cursive;
+    text-align: center;
+}
+form{
+    background-color: #B3ECEC;
+    color: black;
+    font-size: 20px;
+    margin: 20px;
+    text-shadow: 2px 2px 4px black;
+    border: 20px rgb(241, 241, 247) dashed;
+}
+.terminConfi{
+    margin-left: 20px;
+}
+.form-group{
+    margin-left: 20px;
+}
+.pacho{
+    color: white;
+    background-color: rgb(214, 100, 100);
+}
+.pacho:hover{
+    background-color: rgb(197, 195, 188);
+    color:black;
+}
+.colors{
+    font-size: 50px;
+    color: black;
+    font-family: 'Lobster Two', cursive;
+    text-shadow: 2px 2px 4px rgb(219, 3, 3);
+}
+.pacho1 {
+    background-color:hsl(0, 0%, 100%);
+    width: 150px;
+    height: 150px;
+    margin-top: 20px;
+    font-size: 20px;
+    color: black;
+    border: 4px #34AAB4 solid;
+    box-shadow: 0px 2px 3px 4px  blue;
+}
+.pachoimg{
+    width: 100px;
+    height: 90px;
+}
+.table-bordered{
+    color:rgb(0, 0, 141);
+    width: 50%;
+    background-color: rgb(253, 245, 245);
+    margin-left: 12%;
+    font-size: 25px;
+}
+.colorsPre{
+    font-size: 50px;
+    color: black;
+    font-family: 'Lobster Two', cursive;
+    text-shadow: 2px 2px 4px rgb(219, 3, 3);
+    margin-top: 500px;
+}
+.btn__descarga img{
+    margin-top: 10px;
+    border-radius: 500px;
+    margin:center;
+    border: 2px solid #704402;
+}
+
+.btn__descarga{
+    
+    border: 2px solid #FFBD59;
+    border-radius: 20px;
+}
+
+.btn__descarga:hover{
+    background-color: #eaf1f5;    
+    border: 5px solid #FFBD59;
+    border-radius: 20px;
+}
+.footer{
+    background-color :#39baec;
+    width: 100%;
+    height: 80px;
+    border-style: double;
+}
+.footer p{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    margin-top: 20px;
+}
+.footer p:hover{
+    color: blanchedalmond;
+}
+.footer1{
+    margin-left: 50%;
+}
+.casos_exit{
+    font-size: 50px;
+    font-family: 'Oleo Script', cursive;
+    margin-left: 30%;
+    color: black;
+    text-shadow: 2px 2px 4px rgb(4, 43, 172);
+}
+.list-group-item{
+    width: 40%;
+    height: 50%;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 30%;
+    border: 2px solid #42b5f8;
+    box-shadow: 0px 2px 2px 4px rgb(99, 135, 253);
+}
+
+
+
+
